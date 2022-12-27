@@ -1,7 +1,7 @@
 ---
-title: Hi Hugo
-author: R package build
-date: '2022-12-27'
+title: "Hi Hugo"
+author: "R package build"
+date: "2022-12-27"
 slug: []
 categories: []
 tags: []
